@@ -7,3 +7,6 @@ langchain-google-genai
 langsmith
 langgraph
 langchain_tavily
+langchain_core
+pypdf
+pymupdf
